@@ -7,4 +7,6 @@ Production-grade project developed during the Reso Coder Academy Flutter Bootcam
 More info at [Reso Coder](https://resocoder.com/fdb/) or at [Reso Coder Academy](https://resocoder.academy/)
 
 Pagination
-![repo_viewer_pagination](https://user-images.githubusercontent.com/124163527/234280348-7e2062bd-aa2b-4cf3-93e8-4757802f4125.gif)
+
+
+![repo_viewer_pagination](https://user-images.githubusercontent.com/124163527/234285684-df99b450-a453-490d-9a3d-4d3faf813c6e.gif)
