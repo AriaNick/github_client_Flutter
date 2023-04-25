@@ -12,19 +12,19 @@ Signin & Signout:
 ![repo_viewer_signIn_signOut](https://user-images.githubusercontent.com/124163527/234303106-d8d3768c-86dc-45b9-ba3a-e88203528b53.gif)
 
 
-Pagination
+Pagination:
 
 
 ![repo_viewer_pagination](https://user-images.githubusercontent.com/124163527/234285684-df99b450-a453-490d-9a3d-4d3faf813c6e.gif)
 
 
-Starring repositories
+Star & unstar repositories:
 
 
 ![repo_viewer_starring_repo](https://user-images.githubusercontent.com/124163527/234297919-0f15cb90-5a9e-4c94-ae60-9295377ea21f.gif)
 
 
-Search & Search history
+Search & Search history:
 
 
 ![repo_viewer_search_searchHistory](https://user-images.githubusercontent.com/124163527/234298667-e77c5d09-019d-4e9f-b7be-4db0b37d04c2.gif)
